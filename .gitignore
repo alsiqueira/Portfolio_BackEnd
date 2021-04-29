@@ -5,5 +5,5 @@ build/
 tmp/*
 !tmp/.gitkeep
 temp/
-database/*.sq3
+src/database/*.sq3
 
